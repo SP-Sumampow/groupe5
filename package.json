@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SP-Sumampow/groupe5/issues"
   },
-  "homepage": "https://github.com/SP-Sumampow/groupe5#readme"
+  "homepage": "https://github.com/SP-Sumampow/groupe5#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
